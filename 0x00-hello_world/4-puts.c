@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 /**
 
 * main - print the string in the put function
@@ -20,7 +18,7 @@ int main(void)
 
 {
 
-	puts("\"ogramming is like building a multilingual puzzle");
+	puts("\"pogramming is like building a multilingual puzzle");
 
 	return (0);
 
