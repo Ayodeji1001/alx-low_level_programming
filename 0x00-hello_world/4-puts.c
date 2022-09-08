@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
 
 * main - print the string in the put function
@@ -13,7 +12,6 @@
 * Retun: 0
 
 */
-
 int main(void)
 
 {
