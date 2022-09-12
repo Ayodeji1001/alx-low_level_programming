@@ -5,16 +5,15 @@
 * main - print if the number is positive, zero, or negative
 *
 * Description: using thye main function
-* this program prints "Programming is positive, zero, or negative
-* Return: 0
+* Return: Always 0 (Success)
 */
 int main(void)
 {
-	chat ch;
-	for (ch = 'a' ; ch <= 'z' ; ch++)
-	{
-		putchar(ch);
-	}
-	putchar('\n');
-	return (0);
+chat ch;
+for (ch = 'a' ; ch <= 'z' ; ch++)
+{
+putchar(ch);
+}
+putchar('\n');
+return (0);
 }
