@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* a function that prints 10 times the alphabet, in lowercase, followed by a new line
+* _islower - Checks if a character is lowercase
 */
 void print_alphabet_x10(void)
 {
