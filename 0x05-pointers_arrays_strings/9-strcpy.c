@@ -6,13 +6,12 @@
  * @src: copy from
  * Return: string
  */
-char *_strcpy(char *dest, const char *src)
+char *_strcpy(char *dest, char *src)
 {
-int index = 0;
-while (src[index])
+int i = 0;
+for (; src[i] != '\0'; i++)
 {
-dest[index] = src[index];
-index++;
+dest[i] = src[i];
 }
 return (dest);
 }
