@@ -5,6 +5,9 @@
  * strtow - concatenates all the arguments of your program
  * @str: string
  * @ar: arguments
+ * print_tab - Prints an array of string
+ * @tab: The array to print
+ *
  * Return: a pointer to a new string
  */
 char **strtow(char *str)
