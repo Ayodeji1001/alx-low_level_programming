@@ -4,7 +4,7 @@
 /**
  * strtow - concatenates all the arguments of your program
  * @str: string
- * @av: arguments
+ * @ar: arguments
  * Return: a pointer to a new string
  */
 char **strtow(char *str)
